@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 st.write('Group 1 Project')
 st.header("Investment Risk Tolerance Quiz")
