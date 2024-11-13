@@ -1,9 +1,8 @@
-#Web App
 %%writefile app.py
 import streamlit as st
 st.write('Group 1 Project')
 st.header("Investment Risk Tolerance Quiz")
-# Quiz questions, options, and scores
+
 questions = {
     "1. In general, how would your best friend describe you as a risk taker?": {
         "options": ["A real gambler", "Willing to take risks after completing adequate research", "Cautious", "A real risk avoider"],
